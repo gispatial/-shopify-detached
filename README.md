@@ -8,7 +8,7 @@
 
 
 This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel. 
-production deployed using vercel: https://shopify-detached.vercel.app/
+Production deployed using vercel: https://shopify-detached.vercel.app/
 ## Topics Covered
 
 * Blazing fast storefronts using Next.js for eCommerce.
