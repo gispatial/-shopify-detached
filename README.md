@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/gispatial/-shopify-detached/blob/rizqbazaar/screen01.png" alt="delyva next.js preview">
   </p>
+  production deployed using vercel: https://shopify-detached.vercel.app/
 </div>
 
 
