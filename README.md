@@ -1,9 +1,7 @@
-# Welcome to the Shopify + Next.js + Tailwind CSS course
+# Delyva Shopify + Next.js + Tailwind 
 
 <div align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0524/4390/6207/files/site-preview.gif?v=1630892895" alt="shopify next.js course preview">
-  <p align="center">
-    <a href="https://shopify-next-js-tailwind.vercel.app//">Live Demo Store</a> | <a href="https://www.buildnextshop.com/">Course</a>
+  <img src="https://github.com/gispatial/-shopify-detached/blob/rizqbazaar/screen01.png" alt="delyva next.js preview">
   </p>
 </div>
 
