@@ -7,8 +7,7 @@
 
 
 
-This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel. This is a project from the "Learn Shopify + Next.js + Tailwind CSS" course available at [www.BuildNextShop.com](https://buildnextshop.com/)
-
+This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel.
 ## Topics Covered
 
 * Blazing fast storefronts using Next.js for eCommerce.
