@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+//import axios from 'axios';
 import {
   Card,
   FormLayout,
@@ -131,7 +131,7 @@ class AnnotatedLayout extends React.Component {
         // console.log('response.data', response.data);
 
         const perUsd = Number.parseFloat(response.data.perUsd).toFixed(2);
-        
+
         let updateState = {
           companyId,
           initializing: false,
@@ -410,7 +410,7 @@ class AnnotatedLayout extends React.Component {
   }
 
   async initReload() {
-    
+
   }
 
   async initDelyvaNow() {
@@ -514,7 +514,7 @@ class AnnotatedLayout extends React.Component {
         if (charge_id) {
           this.checkReloadStatus(charge_id);
         }
-        
+
         return Promise.resolve(1);
       } else {
         this.setState({ criticalMessage: 'Unknown error' });
@@ -743,12 +743,12 @@ class AnnotatedLayout extends React.Component {
                     <TextField type="text" label="Credit Balance" value={creditBalance} disabled />
                     <TextField type="text" label="Customer ID" value={custId} disabled />
                   </FormLayout.Group>
-                  
+
                 <Button onClick={this.showReload} loading={this.state.checkingReloadStatus}>Reload Credit</Button>
 
                 </FormLayout>
               </Card>
-              
+
             </Layout.AnnotatedSection>
 
           <Layout.AnnotatedSection
@@ -809,7 +809,7 @@ class AnnotatedLayout extends React.Component {
       } else if (this.state.criticalMessage !== false) {
         return this.renderErrorBanner();
       }
-      return RenderPage(); 
+      return RenderPage();
     }
   }
 }
