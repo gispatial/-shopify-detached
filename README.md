@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://github.com/gispatial/-shopify-detached/blob/rizqbazaar/screen01.png" alt="delyva next.js preview">
   </p>
-  production deployed using vercel: https://shopify-detached.vercel.app/
 </div>
 
 
 
-This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel.
+This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel. 
+production deployed using vercel: https://shopify-detached.vercel.app/
 ## Topics Covered
 
 * Blazing fast storefronts using Next.js for eCommerce.
